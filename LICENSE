@@ -1,24 +1,314 @@
-This is free and unencumbered software released into the public domain.
+THE CANYON LAKE LABS LICENSE
+Version 1.0
+Last updated: November 16, 2026
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Copyright (c) 2026 Canyon Lake Labs. All rights reserved except as granted below.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+Before you read on
 
-For more information, please refer to <https://unlicense.org>
+This is not an open source license. You can read the source, and you can use and
+share the Work, but only in the ways set out below, and those ways are narrow on
+purpose. If you want to do something this license does not mention, assume you
+need to ask first.
+
+If you do not agree to these terms, do not use the Work, and delete any copy you
+have. By using, copying, or sharing the Work in any way, you agree to everything
+in this document.
+
+
+1. Words used in this license
+
+"Work" means everything this license is attached to or that points to this
+license: the code, the programs built from it, models and model weights, prompts,
+data files, art, text, documentation, and anything else included. It also
+includes any piece of it, big or small.
+
+"We", "us", and "the Licensor" mean Canyon Lake Labs, the owner named in the
+copyright line at the top.
+
+"You" means whoever is using the Work. If you are using it for a company, school,
+club, or any other group, "you" includes that group, and you promise you have the
+right to speak for it.
+
+"Share" means to hand the Work to anyone else in any way at all. Posting it,
+sending it, uploading it, putting it on a drive someone else can reach, burning
+it to a disc, or linking to a copy you made all count, whether you charge for it
+or not.
+
+"Changed version" means anything made by editing, adapting, translating,
+rewriting, porting, merging, or building on the Work or a piece of it. Training
+a model on it, tuning a model with it, or compressing or converting a model that
+is part of it also counts. A changed version is treated as part of the Work for
+every rule in this license.
+
+"Bundle" means any bigger project, product, or package that contains the Work or
+a changed version.
+
+"Network use" means letting other people use the Work, or a program that
+contains it, over a network, even though you never hand them a copy. A website,
+an app backend, a game server, a bot, a paid or free online service, and an API
+are all examples.
+
+"Complete source" means the full, readable source of the Work exactly as you got
+it, along with anything needed to build it and a copy of this license.
+
+"Commercial use" means using the Work mainly to make money or gain a business
+advantage, directly or indirectly. This covers using it for an employer, a
+client, or a customer, selling it or anything that includes it, running it
+behind ads, sponsorships, or affiliate links, putting it in a paid product or an
+app store listing, and any use inside a business. Passing it around for free
+among regular people who are not paying or being paid does not make it
+commercial.
+
+"AI use" means using the Work, or any piece of it, to train, tune, test,
+benchmark, rank, or improve any machine learning model or other automated
+system. It also means feeding the Work into a search index, an embedding
+database, a retrieval system, a dataset, or a chatbot that is meant to learn
+from it, and it means having any bot or crawler gather the Work for any of
+these reasons.
+
+
+2. What you are allowed to do
+
+If you follow every rule in this license, you may:
+
+(a) Use the Work. You can run it, read it, and study how it works, for your own
+    personal, non-commercial purposes. Hobby projects, learning, and tinkering
+    at home are fine.
+
+(b) Share the Work as it is. You can copy it and pass it on to other people, in
+    any format, as long as you do not charge for it, you do not get anything in
+    return for it, and every condition in section 3 is met. The copy you share
+    has to be exactly the copy you received.
+
+(c) Change it for yourself. You can make a changed version for your own private
+    use. It stays on your own devices. You cannot share it, post it, host it, or
+    let other people use it over a network, not even to a friend. Not even a
+    patch, a diff, a screenshot of the code, or a description detailed enough to
+    recreate the changes.
+
+Nothing in this list gives you more than it says. Anything not listed is not
+allowed unless we agree in writing.
+
+
+3. Rules for sharing the Work
+
+If you share the Work, all of these things must be true.
+
+You keep the credit. Leave every copyright notice, author credit, and license
+notice where it is. Tell people the Work comes from Canyon Lake Labs, give them
+the full text of this license or a working link to it, and say that the Work is
+under the Canyon Lake Labs License version 1.0. Do not say or imply that we
+support you, your project, or how you are using the Work.
+
+The license stays. Every copy you hand over has to include this license, word for
+word. You cannot swap it for another license, add a second license beside it,
+offer a paid "business version", or change any term. People who get the Work from
+you receive their permission straight from us, under this license and nothing
+else.
+
+It stays unchanged. What you share has to match what you received, exactly. You
+may add a separate file with the credits that section 3 asks for, but you may not
+edit the Work itself. Sharing a changed version, a patch, or a Bundle is not
+allowed.
+
+The source comes with it. Whatever you share has to include the complete source,
+free of charge. Sharing only a program without the source is not allowed.
+
+No extra locks. You cannot add rules, fees, accounts, license keys, copy
+protection, region limits, or any other legal or technical barrier that stops
+someone from doing something this license lets them do.
+
+It is free. You cannot charge for the Work or for access to it. You cannot add it
+to anything that costs money, runs ads, or needs a subscription. You cannot put
+it into a paid bundle, a paid collection, a marketplace listing, or a sponsored
+download page.
+
+
+4. If you let other people use it over a network
+
+You may let other people use the unchanged Work over a network only if all of
+this is true:
+
+ 1. The use is not commercial, as defined above.
+ 2. Every person who uses it can see this license and our credit.
+ 3. Every person who uses it can easily download the complete source of the exact
+    version they are using, for free, from the same place they reach the
+    service, with no account and no catch.
+
+You may never let anyone use a changed version over a network. Not for free, not
+for a small group, and not as a test.
+
+
+5. No commercial use
+
+You may not use the Work, or anything made from it, for commercial purposes. This
+is true for every part of the Work and every use, large or small. If you think
+your use might be commercial, treat it as commercial and ask for permission. We
+may say yes to certain commercial uses, but only in writing, only for the use we
+approve, and we can attach conditions or say no for any reason.
+
+
+6. No building on the Work in public
+
+Only section 2(c) lets you change the Work, and that is private. You may not share
+a Bundle, or run one over a network, if it contains the Work or any part of it.
+
+If you want to build something public on top of the Work, ask us first. If we say
+yes, the finished project will have to be released under this license, and we may
+add other conditions.
+
+
+7. Things you must never do
+
+Whatever else this license says, you may not do any of these.
+
+ - Use the Work for AI use, or let anyone else do it.
+ - Let a bot, scraper, or crawler collect the Work, unless we have said so in
+   writing.
+ - Take the Work apart to get at its source code, weights, keys, or prompts if
+   we did not provide them, whether by decompiling, disassembling, decrypting,
+   probing, or any other method.
+ - Get around a limit on how the Work can be reached or used.
+ - Remove, hide, or alter any notice, credit, watermark, or identifier in the
+   Work.
+ - Publish benchmark results, comparisons, reviews, or security findings about
+   the Work without our written permission. Reporting a problem to us privately
+   is always fine and welcome (see section 12).
+ - Use the names "Canyon Lake Labs", "Koine OS", or "Axiom", or our logos or the
+   look and feel of our products, as the name or brand of anything. You may use
+   them only to give honest credit as section 3 asks.
+ - Use the Work to build, train, or improve something that competes with the
+   Work or with our other products.
+ - Use the Work to break the law, harm people, deceive people, or violate anyone
+   else's rights.
+
+
+8. Who owns what
+
+The Work is licensed to you. It is not sold to you. We keep all ownership of the
+Work, including copyright, trademarks, and any patents, and we keep every right
+we have not clearly given to you.
+
+Nothing in this license gives you any right by accident or by implication. Selling
+you a copy, tolerating something you do, or staying quiet about it does not give
+you extra permission.
+
+If you make a changed version, we own whatever rights you would otherwise have in
+the parts that come from the Work, to the fullest extent the law allows. If you
+send us ideas, suggestions, or feedback, you give us a permanent, worldwide, free
+license to use them any way we like, with no credit and no payment.
+
+If you sue anyone, claiming the Work infringes a patent, every permission in this
+license ends for you the moment you file.
+
+Some parts of the Work may belong to other people and come with their own
+license. This license does not change those terms and does not give you any
+rights in that material.
+
+
+9. What happens if you break the rules
+
+If you break any term of this license, your permission to use the Work ends
+automatically. No notice from us is needed.
+
+If it was your first violation and you fix it fully within 30 days of finding out
+about it, your permission comes back on its own. In any other case, it comes back
+only if we say so in writing.
+
+When your permission ends, you must stop using the Work, delete every copy and
+changed version you have (including backups), and if we ask, confirm in writing
+that you did.
+
+People who received a copy from you while you were following the rules keep their
+own permission, directly from us, for as long as they follow the rules too.
+
+We may stop offering the Work whenever we want, and we may release future
+versions under different terms. A version you got while following these terms
+stays under these terms, as long as you keep following them.
+
+
+10. Remedies
+
+If you break this license, we may suffer harm that money cannot fully repair. You
+agree that we can ask a court to order you to stop, without having to post a
+bond, on top of every other remedy the law gives us. That can include
+collecting the profits you made from the violation, plus our reasonable legal
+fees and costs.
+
+
+11. No promises, and limits on what we owe
+
+The Work is provided as it is. We make no promises about it. We do not promise it
+works, is safe, is accurate, is secure, suits your purpose, or does not infringe
+someone else's rights, and we disclaim every warranty the law lets us disclaim.
+
+To the fullest extent the law allows, we are not responsible for any loss or
+damage that comes from the Work or from this license, whether direct or indirect,
+and including lost data, lost income, or any other loss, even if we were warned it
+could happen. If a court decides we owe you something anyway, the most we owe in
+total is zero dollars (US$0).
+
+Some places do not allow these limits. Where that is the case, they apply only as
+far as the law allows. Other rights you may have, such as rights of privacy,
+publicity, or moral rights, may also limit how you can use the Work. This license
+may not give you every permission your project needs.
+
+
+12. Reporting a security problem
+
+If you find a vulnerability, please tell us privately at support@canyonlakelabs.com. Give us
+a reasonable amount of time to fix it before you tell anyone else. Sending a
+report does not give you any extra rights under this license.
+
+
+13. Limits of this license
+
+You do not have to follow this license for parts of the Work that are in the
+public domain, or when the law lets you use the Work without permission, such as
+under fair use or fair dealing. Nothing here takes those rights away from you.
+
+
+14. The legal fine print
+
+Whole agreement. This license is everything we have agreed about the Work. It
+replaces anything said or written earlier.
+
+If part of it fails. If a court finds some part unenforceable, that part is
+reduced as little as needed, and everything else stays in force.
+
+If we do not enforce. If we do not insist on a term, or are slow to, that does not
+mean we have given it up.
+
+Which rule wins. If another notice about the Work contradicts this license, the
+stricter one applies.
+
+Nobody else can change this license. Only we can edit, replace, or sublicense the
+terms that apply to the Work. We may offer the Work to others under different
+terms if we choose. That does not change your terms.
+
+Who can give permission. Permission to do something this license does not allow
+is valid only if it comes from us, in writing. Nobody else can grant it for us.
+
+Questions and permission requests: support@canyonlakelabs.com
+
+
+----------------------------------------------------------------------
+The short version, for people in a hurry. It is not part of the license, and if
+it ever disagrees with the text above, the text above wins.
+
+  You can use it, read it, and pass it on, for free, for fun, with credit,
+  exactly as you got it, and with the license and the full source included.
+
+  If you run it for other people online, show them the license and let them
+  download the exact source.
+
+  You can edit it for yourself, but those edits stay on your own devices.
+
+  You cannot sell it, use it for work or business, use it to train or test AI,
+  take it apart, rename it, put your own license on it, or add rules of your
+  own. The license goes with every copy, unchanged.
+
+  If you want to do anything else, ask.
+----------------------------------------------------------------------
